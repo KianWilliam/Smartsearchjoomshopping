@@ -7,7 +7,7 @@ download from : www.joomshopping.com, then employ this plugin along with it shal
 enable you to  use smartsearch module of J4 and  smartsearch component of joomla 4 to index product items
 to find related products. 
 you may download the plugin at:
-https://www.extensions.kwproductions121.com/myplugins/smartsearcjoomshopping.html
+https://www.extensions.kwproductions121.com/myplugins/smartsearchjoomshopping.html
 also in case of any question email me at:
 webarchitect@kwproductions121.com
 or go to http://www.extensions.kwproductions121.com/support.html and send us a message.
