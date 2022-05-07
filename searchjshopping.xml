@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="4.0" type="plugin" group="finder" method="upgrade">
+	<name>Finder - searchjshopping</name>
+	<author>KWProductions Co.</author>
+	<creationDate>May 2022</creationDate>
+	<copyright>(C) 2022 Open Source Matters, Inc.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<authorEmail>webarchitect@kwproductions121.com</authorEmail>
+	<authorUrl>kwproductions121.com</authorUrl>
+	<version>1.0.0</version>
+	<description>PLG_FINDER_SEARCHJSHOPPING_XML_DESCRIPTION</description>
+	<scriptfile>script.php</scriptfile>
+	<files>
+		<filename plugin="searchjshopping">searchjshopping.php</filename>
+		<filename>index.html</filename>
+	</files>
+	<updateservers>
+		<server type="extension" name="SearchJoomshopping Update Site">https://extensions.kwproductions121.com/update.xml</server>
+	</updateservers>
+	<languages>
+		<language tag="en-GB">language/en-GB/en-GB.plg_finder_searchjshopping.ini</language>
+		<language tag="en-GB">language/en-GB/en-GB.plg_finder_searchjshopping.sys.ini</language>
+	</languages>
+	
+</extension>
