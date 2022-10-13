@@ -15,7 +15,7 @@
 		<filename>index.html</filename>
 	</files>
 	<updateservers>
-		<server type="extension" name="SearchJoomshopping Update Site">https://extensions.kwproductions121.com/myextensions.xml</server>
+		<server type="extension" name="SearchJoomshopping Update Site">https://extensions.kwproductions121.com/update.xml</server>
 	</updateservers>
 	<languages>
 		<language tag="en-GB">language/en-GB/en-GB.plg_finder_searchjshopping.ini</language>
